@@ -1,12 +1,39 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+  - skill: Environnements Linux
+    description: Debian, Ubuntu, Nixos
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+  - skill: Coding
+    description: Bash, Python, Golang, PHP (versions 5, 7 et 8), JavaScript (Typescript), Node.js
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+  - skill: Frameworks
+    description: Express, Symfony (versions 3 à 6), NestJS
+
+  - skill: Bases de données
+    description: MySQL, MongoDB
+
+  - skill: Virtualisation
+    description: VirtualBox (usage perso et pro), Vagrant
+
+  - skill: Containerisation
+    description: Docker
+
+  - skill: Orchestration
+    description: Docker Compose, kubernetes
+
+  - skill: CI/CD
+    description: GitHub Actions
+
+  - skill: Monitoring
+    description: Grafana, Prometheus, Node Exporter
+
+  - skill: Automatisation
+    description: Ansible (playbooks simples pour exécution de scripts et vérification de state de conteneurs Docker)
+
+  - skill: Systèmes de queue
+    description: RabbitMQ
+
+  - skill: Serveurs web
+    description: Apache, Nginx, Caddy
+
+  - skill: Outils et méthodologies
+    description: Conventional Commits, Git Flow
+

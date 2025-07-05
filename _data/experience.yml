@@ -1,19 +1,71 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  - company: Squad
+    position: Consultant DevOps
+    duration: 2024 — Aujourd'hui
+    summary: |
+      <ul class="resume-item-list">
+        <li>Aide à la décision sur des questionnements techniques</li>
+        <li>Utilisation de design patterns pour produire du code clair, maintenable et adapté aux besoins métiers</li>
+        <li>Automatisation des actions humaines</li>
+        <li>Accompagnement d'ingénieurs moins expérimentés</li>
+        <li>Rédaction des tests unitaires et fonctionnels</li>
+        <li>Support pour les clients des produits développés</li>
+      </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  - company: Namkin
+    position: Lead Developer & DevOps
+    duration: Septembre 2017 — 2024
+    context: Entreprise de marketing B2B proposant des solutions web 360 (sites, espaces clients, applications de salons).
+    team: 4-5 personnes (développeurs back & front)
+    summary: |
+      <ul class="resume-item-list">
+        <li>
+          <strong>Architecture & Infrastructure</strong>
+          <ul>
+            <li>Analyse des besoins, configuration de VPS et serveurs dédiés (OVH), rédaction de docs explicatifs pour les choix techniques.</li>
+            <li>Mise en place de mesures de sécurité (clé SSH, interdiction root, etc.).</li>
+            <li>Conception d’architectures serveur sur-mesure pour les clients.</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Développement & Outils</strong>
+          <ul>
+            <li>Développement d’applications web métiers avec PHP (Symfony), Node.js, Docker, Apache/Nginx.</li>
+            <li>Création d’environnements virtualisés et introduction de Docker (multi-stage) pour les devs Windows (pré-WSL).</li>
+            <li>Développement Python avancé pour des traitements techniques, mise en place de caching HTTP/2/Memcached.</li>
+            <li>Intégration d’API externes REST/SOAP, notamment Salesforce et Zoho CRM.</li>
+            <li>Intégration de tests fonctionnels & smoke tests en CI.</li>
+          </ul>
+        </li>
+        <li>
+          <strong>DevOps & Cloud</strong>
+          <ul>
+            <li>Déploiement automatisé via Ansible/SSH, configuration de backups (Restic, S3).</li>
+            <li>Mise en place de CI/CD (GitHub Actions), continuous delivery & deployment.</li>
+            <li>Exploration et étude d’architectures cloud (Azure, AWS) pour clients.</li>
+            <li>Monitoring avec Promtail, Node Exporter, intégration de systèmes de queue (RabbitMQ).</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Gestion d’équipe & Projet</strong>
+          <ul>
+            <li>Gestion d’équipe 4-5 personnes, organisation des sprints SCRUM.</li>
+            <li>Mentorat technique, mise en place de tests pour les juniors.</li>
+            <li>Gestion de la roadmap et des évolutions technologiques.</li>
+            <li>Collaboration avec des équipes de dev externes.</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Relation client & Suivi</strong>
+          <ul>
+            <li>Recueil de besoins, rédaction de cahiers des charges, suivi post-livraison (maintenance évolutive et sécurité).</li>
+            <li>Proposition de solutions techniques et d’architectures personnalisées.</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Optimisation, Intégration & Veille</strong>
+          <ul>
+            <li>Optimisation de la performance applicative (API, queues, découpe d’image, réduction d’impact sur l’app monolithique).</li>
+            <li>Veille et mise en place de nouvelles technos selon les besoins clients (ex : WebRTC).</li>
+          </ul>
+        </li>
+      </ul>
