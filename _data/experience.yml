@@ -30,8 +30,8 @@
           <strong>Développement & Outils</strong>
           <ul>
             <li>Développement d’applications web métiers avec PHP (Symfony), Node.js, Docker, Apache/Nginx.</li>
-            <li>Création d’environnements virtualisés et introduction de Docker (multi-stage) pour les devs Windows (pré-WSL).</li>
-            <li>Développement Python avancé pour des traitements techniques, mise en place de caching HTTP/2/Memcached.</li>
+            <li>Création d’environnements virtualisés et introduction de Docker pour les devs Windows (pré-WSL).</li>
+            <li>Développement Python avancé pour des traitements techniques.</li>
             <li>Intégration d’API externes REST/SOAP, notamment Salesforce et Zoho CRM.</li>
             <li>Intégration de tests fonctionnels & smoke tests en CI.</li>
           </ul>
@@ -64,7 +64,7 @@
         <li>
           <strong>Optimisation, Intégration & Veille</strong>
           <ul>
-            <li>Optimisation de la performance applicative (API, queues, découpe d’image, réduction d’impact sur l’app monolithique).</li>
+            <li>Optimisation de la performance applicative (API, queues, microservices, réduction d’impact sur app monolithique).</li>
             <li>Veille et mise en place de nouvelles technos selon les besoins clients (ex : WebRTC).</li>
           </ul>
         </li>
