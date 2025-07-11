@@ -1,9 +1,20 @@
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Site settings
 title: "Anthony hengy"
-description: "CV Anthony hengy"
+description: "Je suis un développeur DevOps passionné par l’automatisation, la qualité du code et le travail d’équipe. Voici mon parcours et ce que je peux apporter à vos projets."
+
+url: "https://anthonyhengy.fr"
+author:
+  name: "Anthony Hengy"
+social:
+  name: "Anthony Hengy"
+  links:
+    - https://www.linkedin.com/in/anthony-hengy
+    - https://github.com/dat-Antho
+lang: fr
 
 # Build settings
 markdown: kramdown
