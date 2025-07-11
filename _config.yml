@@ -1,3 +1,6 @@
+plugins:
+ - jekyll-sitemap
+
 # Site settings
 title: "Anthony hengy"
 description: "CV Anthony hengy"
