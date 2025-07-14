@@ -4,7 +4,7 @@ plugins:
 
 # Site settings
 title: "Anthony hengy"
-description: "Je suis un développeur DevOps passionné par l’automatisation, la qualité du code et le travail d’équipe. Voici mon parcours et ce que je peux apporter à vos projets."
+description: "DevOps, j’aime automatiser, fiabiliser et simplifier les systèmes. Ce site présente mon parcours, mon approche et mes expériences."
 url: "https://anthonyhengy.fr"
 image: /images/img-social.png
 author:
