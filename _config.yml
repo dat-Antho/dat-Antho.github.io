@@ -4,7 +4,7 @@ plugins:
 
 # Site settings
 title: "Anthony hengy"
-description: "DevOps, j’aime automatiser, fiabiliser et simplifier les systèmes. Ce site présente mon parcours, mon approche et mes expériences."
+description: "Intéressé par l'automatisation, j'aime fiabiliser et simplifier les systèmes. Ce site présente mon parcours, mon approche et mes expériences."
 url: "https://anthonyhengy.fr"
 image: /images/img-social.png
 author:
