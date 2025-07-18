@@ -31,7 +31,7 @@ resume_title:                   "Ingenieur logiciel"
 resume_contact_email:           ""
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "test"
+resume_contact_telephone:       ""
 resume_contact_address:         ""
 
 resume_header_contact_info:     "<span>Antibes</span><br/> <span>Français (natif) - Anglais (pro) </span> "
